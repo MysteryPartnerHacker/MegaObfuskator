@@ -19,6 +19,9 @@ For safety, I already develloped the MegaDeObfukator. As for the other one, it t
 Usage example:
 ./MegaObfuskator --image pic.bmp --passphrase MySuperPassphrase
 
+Reminder, to install python:
+https://www.python.org/downloads/release/python-368/
+
 # Obfuscation algorithm
 
 The obfuscation algorithm is well described in the following paragraphs although its sound chinese to me, it looks more like latin:
