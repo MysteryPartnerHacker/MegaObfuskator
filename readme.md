@@ -17,7 +17,7 @@ For safety, I already develloped the MegaDeObfukator. As for the other one, it t
  It outputs the retrieved picture to "restored.bmp"
 
 Usage example:
-./MegaObfuskator --image pic.bmp --passphrase <MySuperPassphrase>
+./MegaObfuskator --image pic.bmp --passphrase MySuperPassphrase
 
 # Obfuscation algorithm
 
