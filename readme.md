@@ -17,7 +17,7 @@ For safety, I already develloped the MegaDeObfukator. As for the other one, it t
  It outputs the retrieved picture to "restored.bmp"
 
 Usage example:
-./MegaObfuskator --image pic.bmp --passphrase MySuperPassphrase
+./MegaDeObfuskator --image pic.bmp --passphrase MySuperPassphrase
 
 Reminder, to install python:
 https://www.python.org/downloads/release/python-368/
